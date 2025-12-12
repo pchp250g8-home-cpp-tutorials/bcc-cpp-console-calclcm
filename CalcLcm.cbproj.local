@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.982,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.753,D:\Projects\Programming\CPP\BDS\Console\Algorithms\CalcGcd\CalcGcdPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.153,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.779,D:\Projects\Programming\CPP\BDS\Console\Algorithms\CalcGcd\CalcGcd.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.767,D:\Projects\Programming\CPP\BDS\Console\Algorithms\CalcGcd\File1.cpp=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.960,D:\Projects\Programming\CPP\BDS\Console\Algorithms\CalcGcd\CalcGcd.cpp=D:\Projects\Programming\CPP\BDS\Console\Algorithms\CalcGcd\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.004,D:\Projects\Programming\CPP\BDS\Console\Algorithms\CalcGcd\CalcGcd.cbproj=D:\Projects\Programming\CPP\BDS\Console\Algorithms\CalcGcd\CalcGcd.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
